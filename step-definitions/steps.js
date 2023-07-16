@@ -1,7 +1,7 @@
 import { Given, When, Then } from '@wdio/cucumber-framework';
 
 import LoginPage from '../support/pages/login.page.js';
-import home_page from '../support/pages/home_page.js';
+
 
 
 Given(/^I am on the login page$/, async () => {
