@@ -1,4 +1,4 @@
-class homePage {
+class HomePage {
     get sortButton () {return $('//select[@class="product_sort_container"]');}
     get sortButtonByName () {return $('//option[@value="az"]');}
 
