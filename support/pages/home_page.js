@@ -7,4 +7,4 @@ class HomePage {
         await this.sortButtonByName.click();}
 }
 
-export default new homePage();
+export default new HomePage();
